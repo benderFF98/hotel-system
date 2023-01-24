@@ -7,3 +7,4 @@ modules.xml
 
 vendor/
 .env
+composer.lock
